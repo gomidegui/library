@@ -8,3 +8,4 @@ Neste exercício, iremos refatorar um sistema simples para aluguel de livros de 
 - [Parte 2](parte2.md)
 Commit 1: Running the tests - Mon Sep 29 22:43:12 -03 2025
 Commit 1: Running the tests - Mon Sep 29 22:47:30 -03 2025
+Commit 1: Running the tests - Mon Sep 29 22:49:09 -03 2025
